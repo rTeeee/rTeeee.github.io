@@ -7,7 +7,7 @@ header {
 
 .color-overlay {
     max-width: 750px;
-    background-color: rgba(0,0,0,.8);
+    background-color: rgba(0,20,0,.8);
 }
 
 @media (max-width: 767.98px) {
